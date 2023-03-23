@@ -92,7 +92,7 @@ def uploadFile():
 
         subprocess.run(cmd, check=True)
     
-        return render_template('index_upload_and_show_data_page2.html')
+        return render_template('train.html')
  
  
 
