@@ -1,0 +1,10 @@
+accelerate
+transformers 
+ftfy 
+bitsandbytes 
+gradio
+natsort
+wget
+git+https://github.com/ShivamShrirao/diffus
+git+https://github.com/TheLastBen/diffusers
+werkzeugers
